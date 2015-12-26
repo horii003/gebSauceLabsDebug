@@ -46,8 +46,8 @@ sauceLabs {
         internetExplorer_vista_9
     }
     account { //7
-        username = System.getenv("SAUCE_ONDEMAND_USERNAME")
-        accessKey = System.getenv("SAUCE_ONDEMAND_ACCESS_KEY")
+        username = "horii03"
+        accessKey = "1dff5a82-1c94-4bec-bbe9-f37b0cb3ffa8"
     }
 }
 
